@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 - Email- apratham242@gmail.com
 - linkedin -https://www.linkedin.com/in/pratham-arora-aabb08227/ 
-- Website - prathamarora.me
+- Website - www.prathamarora.me
 
 <!---
 PrathamArora20/PrathamArora20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
